@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GB/HomeWork_6/bin/Debug/net6.0/HomeWork_6
+/Users/mac/Desktop/GB/HomeWork_6/bin/Debug/net6.0/HomeWork_6.deps.json
+/Users/mac/Desktop/GB/HomeWork_6/bin/Debug/net6.0/HomeWork_6.runtimeconfig.json
+/Users/mac/Desktop/GB/HomeWork_6/bin/Debug/net6.0/HomeWork_6.dll
+/Users/mac/Desktop/GB/HomeWork_6/bin/Debug/net6.0/HomeWork_6.pdb
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.AssemblyInfo.cs
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.dll
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/refint/HomeWork_6.dll
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.pdb
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/HomeWork_6.genruntimeconfig.cache
+/Users/mac/Desktop/GB/HomeWork_6/obj/Debug/net6.0/ref/HomeWork_6.dll
